@@ -1,0 +1,6 @@
+region: test
+dcs:
+- test-dc
+type: WebService
+size: nano
+image: registry.query.consul:5000/agentejo/cockpit:0.8.9

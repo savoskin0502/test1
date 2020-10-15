@@ -1,0 +1,7 @@
+region: Almaty
+dcs:
+- prod-abay
+- prod-roza
+type: WebService
+size: nano
+image: registry.query.consul:5000/platform/oracle-kafka:v1.1.3
